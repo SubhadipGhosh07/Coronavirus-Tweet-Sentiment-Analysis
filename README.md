@@ -10,7 +10,9 @@ We are given the following information:
 * Original Tweet: (The exact tweet)
 * Sentiment: (Sentiment of the tweet)
 
-<b><u> Approaching the Problem Statement: </u></b>
+
+
+<h3><b> Approaching the Problem Statement: </b></h3>
 * Built a LSTM RNN model to predict the sentiment associated with a particular tweet consisting of neutral, positive and negative sentiments
 * Employed essential text preprocessing techniques such as text cleaning, calculation of document complexity, used WordCloud to check token frequency.
 * Optimized the model using an optimal vocabulary size, followed by OneHot encode, padding, used Embedding layers to vectorize our tokens before feeding it to the LSTM.
