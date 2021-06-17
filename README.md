@@ -5,10 +5,10 @@ The names and usernames have been given codes to avoid any privacy concerns.
 
 We are given the following information:
 * Username: Unique user-IDs of the users
-* Location: (Location of the user)
-* Tweet At: (Date at which the tweet was made)
-* Original Tweet: (The exact tweet)
-* Sentiment: (Sentiment of the tweet)
+* Location: Location of the user
+* Tweet At: Date at which the tweet was made
+* Original Tweet: The exact tweet
+* Sentiment: Sentiment of the tweet
 
 
 
