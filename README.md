@@ -15,4 +15,3 @@ We are given the following information:
 * Employed essential text preprocessing techniques such as text cleaning, calculation of document complexity, used WordCloud to check token frequency.
 * Optimized the model using an optimal vocabulary size, followed by OneHot encode, padding, used Embedding layers to vectorize our tokens before feeding it to the LSTM.
 * Achieved an overall precision of 78%, 76% and 64% for positive, negative and neutral sentiments respectively and an overall accuracy of 75%.
-
