@@ -3,6 +3,9 @@
 Our objective is to build a classification model to predict the sentiment of COVID-19 tweets.The tweets have been pulled from Twitter and manual tagging has been done then.
 The names and usernames have been given codes to avoid any privacy concerns.
 
+![Screenshot (303)](https://user-images.githubusercontent.com/83903018/124346241-60aa9b80-dbfb-11eb-97a3-a9251066302c.png)
+
+
 We are given the following information:
 * Username: Unique user-IDs of the users
 * Location: Location of the user
