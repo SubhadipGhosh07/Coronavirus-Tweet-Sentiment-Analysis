@@ -10,6 +10,12 @@ We are given the following information:
 * Original Tweet: The exact tweet
 * Sentiment: Sentiment of the tweet
 
+## **Pipelines:**
+* Text preprocessing: Removal of punctuations, using WordCloud to check counts of most frequent tokens.
+* Checking document complexity: Removing irrelevant documents after calculating document complexity
+* Text preprocessing-2: Built an optimal vocabulary, used padding and Embedded Layers to vectorise our features before feeding them in our model.
+* Model Selection: Built a LSTM RNN model as it can help store sequential information of data.
+* Model Evaluation: Evaluation of relevant metrics based on the different tweet categories.
 
 
 <h3><b> Approaching the Problem Statement: </b></h3>
